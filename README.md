@@ -7,4 +7,4 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: You can contact me at [My Email](mailto:mahan.lameie87@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I use GNU/Linux
+- ⚡ Fun fact: I use Arch Linux (config files can be found at [.dotfiles](https://github.com/mahancoder/.dotfiles)
