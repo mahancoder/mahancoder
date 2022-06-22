@@ -15,7 +15,7 @@
 * I use bash scripting to automate boring tasks
 
 ### 💻 What technologies do I use?
-* I use Arch Linux for my daily driver (configs can be found at [.dotfiles](https://github.com/mahancoder/dotfiles))
+* I use Arch Linux for my daily driver (configs can be found at [.dotfiles](https://github.com/mahancoder/.dotfiles))
 * I use NeoVim as my main editor
 * I also use VS Code from time to time
 
