@@ -22,16 +22,10 @@
 ### Projects
 See [Projects.md](Projects.md)
 
-### 🧍‍♂️ What other things do I do besides coding?
-* 🏫 I'm mainly a student and focused on math competitions
-* 🎹 I'm learning the piano as of right now
-* 🎮 I sometimes play games, mostly Minecraft
-* 🏀 I'm a huge fan of basketball and play it whenever I can
+### Stats
+[![Mahancoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahancoder&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/mahancoder)
 
 ### But Mahancoder, how can I contact you?
 You can contact me at:
 * [My email](mailto:mahan.lameie87@gmail.com)
 * Discord: `/dev/random#3745`
-
-### Stats
-[![Mahancoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahancoder&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/mahancoder)
