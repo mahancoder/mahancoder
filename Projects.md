@@ -17,7 +17,7 @@ The rank is calculated based on each neighbourhood's score, which shows how seve
 The project consists of 3 sub-projects:
 * [The Backend API](https://github.com/mahancoder/CovidAlerterBackendApi)
 * [The analyzer and score generator script](https://github.com/mahancoder/covid-alerter-data-analyzer)
-* The Android/iOS client (Work in progress)
+* [The Android/iOS client](https://github.com/mahancoder/covid-alerter-mobile-app)
 
 ## [Sieve toolkit](https://github.com/mahancoder/Sieve-Toolkit)
 A toolkit for various functions of the Sieve of Eratosthenes algorithm  
