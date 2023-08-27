@@ -11,7 +11,8 @@ Since the app doesn't have a Linux version, and I daily drive Linux, I wrote a d
 This is a collection of configs and scripts for my Linux workflow. I've spent a few months configuring all these apps and I will update this repo regularly, as long as I daily drive Linux.
 
 ## Covid Alerter
-Covid Alerter is a big project that isn't done yet (and at this point probably will never be!) \
+Covid Alerter is a big project that isn't done yet (and at this point probably will never be!)
+
 In a nutshell, it's an app that tracks Covid-infected people and generates some rankings for individual neighborhoods.  
 The rank is calculated based on each neighborhood's score, which shows how severe Covid is in there.  
 The project consists of 3 sub-projects:
