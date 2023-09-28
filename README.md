@@ -32,4 +32,4 @@ See [Projects.md](Projects.md)
 ### But Mahancoder, how can I contact you?
 You can contact me at:
 * [My email](mailto:mahan.lameie87@gmail.com)
-* Discord: `/dev/random#3745`
+* Discord: `devrandom42`
