@@ -7,7 +7,7 @@
 * I love coding and do it as a hobby
 * You can call me by "He/Him"
 
-### 📖 What things do I know?
+### 📖 What do I know?
 * I know C#, Python and C++ as my main languages
 * I also use a lot of SQL in my projects
 * I use web technologies to build dummy test apps
